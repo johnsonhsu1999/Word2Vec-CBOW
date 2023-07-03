@@ -7,9 +7,15 @@
 5. testing 測試
 
 (1) vocab and corpus(dict index), include bos/eos token to index
+
 (2) make cbow dataset
+
 (3) Cbow model
+
 (4) training Data
+
 (5) training Model
+
 (6) save "word vector"
+
 (7) testing
