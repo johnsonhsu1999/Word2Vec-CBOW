@@ -1,4 +1,4 @@
-# word vector - CBOW practice
+# word to vector - CBOW practice
 <CBOW所需>
 1. 基本處理:將input轉成list of numbers(index), vocab dictionary, 句首句尾要標記(if pretrained) -> return vocab, tokens
 2. dataset處理:放入模型的資料轉成cbow的(上下文, 中心詞)模式 -> class CbowDataset(Dataset)
